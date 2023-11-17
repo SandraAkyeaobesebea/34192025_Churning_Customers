@@ -45,5 +45,5 @@ This Streamlit app predicts customer churn based on a trained machine learning m
 
 ## Video Demo
 
-For a quick demonstration, check out the video (insert_link_to_video).
+For a quick demonstration, check out the video (https://youtu.be/b0urKM8-yhg).
 
